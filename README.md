@@ -20,4 +20,6 @@
     6.  Segmentación.
     7.  Insight ejecutivo.
 
-Para ejecutar el notebook Project-ConnectaTel dar doble clic en el archivo que está arriba del README.md o haciendo clic en el siguiente enlace
+Para ejecutar el notebook Project-ConnectaTel dar doble clic en el archivo que está arriba del README.md o haciendo clic en el siguiente enlace:  
+https://github.com/juanantoniovaladezmtz-pb/telecom-analysis/blob/main/Project-ConnectaTel.ipynb  
+
